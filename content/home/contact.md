@@ -18,12 +18,12 @@ content:
   # email: test@example.org
   # phone: 888 888 88 88
   # address:
-  #   street: University of Cambridge
+  #   street: University of Lisbon
   #   city: 
   #   region: 
   #   postcode: 
-  #   country: United Kingdom
-  #   country_code: UK
+  #   country: Portugal
+  #   country_code: PT
   coordinates:
     latitude: '52.205297'
     longitude: '0.1172798'
